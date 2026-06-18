@@ -14,17 +14,17 @@ A full stack web application that allows users to search for vehicle brands and 
 
 ### Frontend
 
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ### Backend
 
-* Node.js
-* Express.js
+- Node.js
+- Express.js
 
 ### APIs & Tools
 
-* NHTSA Vehicle API
-* Git
-* VS CODE
+- NHTSA Vehicle API
+- Git
+- VS CODE
