@@ -1,4 +1,30 @@
-# Car_Model_Finder
+# Car Model Finder
 
-----A simple car model finder used for finding exact models of car brands----
-----Search for a car brand and every model produced by that brand will show up----
+A full stack web application that allows users to search for vehicle brands and view available car models using data from the National Highway Traffic Safety Administration (NHTSA) API.
+
+## Features
+
+- Search for vehicle brands
+- Get vehicle model information from the NHTSA API
+- Search results displayed in a user-friendly interface
+- Frontend and backend integration
+- API data retrieval
+
+## Technologies Used
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+### Backend
+
+* Node.js
+* Express.js
+
+### APIs & Tools
+
+* NHTSA Vehicle API
+* Git
+* VS CODE
